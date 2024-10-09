@@ -1,4 +1,4 @@
-package Oct.ex02102024;
+package oct.ex02102024;
 
 public class ATBStudent extends Object {
     // C - ATBStudent

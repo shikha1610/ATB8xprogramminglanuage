@@ -1,8 +1,4 @@
-package Oct.ex02102024;
-
-import sept.Person;
-
-import java.util.Scanner;
+package oct.ex02102024;
 
 public class Lab124 {
     public static void main(String[] args) {

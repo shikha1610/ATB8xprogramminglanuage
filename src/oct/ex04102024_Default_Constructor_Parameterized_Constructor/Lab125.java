@@ -1,4 +1,4 @@
-package Oct.ex04102024_Default_Constructor_Parameterized_Constructor;
+package oct.ex04102024_Default_Constructor_Parameterized_Constructor;
 
 public class Lab125 {
     public static void main(String[] args) {
