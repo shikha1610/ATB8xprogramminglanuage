@@ -1,4 +1,4 @@
-package oct.ex09102024_Inheritance.multiple_inheritance;
+package oct.ex09102024_Inheritance.multilevel;
 
 public class GrandFather {
 
