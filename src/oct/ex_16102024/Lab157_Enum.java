@@ -1,6 +1,6 @@
 package oct.ex_16102024;
 
-public class Lab157 {
+public class Lab157_Enum {
     public static void main(String[] args) {
         System.out.println(Color.RED.getHexcode());
         System.out.println(Color.GREEN.getHexcode());
@@ -8,7 +8,7 @@ public class Lab157 {
         System.out.println(Color.YELLOW.getHexcode());
 
 
-        if(Color.GREEN.getHexcode() =="#61FF33"){
+        if (Color.GREEN.getHexcode() == "#61FF33") {
             System.out.println("Color is Green");
         }
 
